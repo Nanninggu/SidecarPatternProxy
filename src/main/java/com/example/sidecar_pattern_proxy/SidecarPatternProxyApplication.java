@@ -9,5 +9,4 @@ public class SidecarPatternProxyApplication {
     public static void main(String[] args) {
         SpringApplication.run(SidecarPatternProxyApplication.class, args);
     }
-
 }
